@@ -1,0 +1,314 @@
+:root {
+  --main-color: #dd4a00;
+}
+
+body {
+  position: relative;
+  height: 100vh;
+  width: 100vw;
+  background-color: rgb(25, 25, 25);
+  margin: 0rem;
+  overflow: hidden;
+}
+
+#img-wrapper {
+  display: flex;
+  gap: 4vmin;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(0%, -50%);
+  user-select: none;
+  /*prevents the highlighting when dragging on screen*/
+}
+
+#img-wrapper>.image {
+  width: 50vmin;
+  height: 64vmin;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 3%;
+}
+
+.awayer {
+  margin-top: 0.1px;
+}
+
+input {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom-color: aqua;
+
+}
+
+input:focus {
+  outline: none;
+}
+
+#communucation {
+  background-color: #343A40;
+  position: relative;
+  top: 100px;
+}
+
+form {
+  background-color: white;
+  margin: 10% 0px;
+}
+
+.form-group {
+  margin: 1em 5em;
+}
+
+#text-nav {
+  border-style: solid;
+  border-color: aqua;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  transition: 0.65s;
+}
+
+#text-nav:hover {
+  box-shadow: 10px 10px 5px aqua;
+
+}
+
+
+
+#footer {
+  background-image: url('../organize/back1.jpg');
+}
+
+#footer .container {
+  text-align: center;
+
+
+}
+
+#mrgn {
+  margin-top: 3%;
+}
+
+nav {
+  border-style: solid;
+  border-color: aqua;
+  border-left: none;
+  border-top: none;
+  border-right: none;
+  border-width: 5px;
+
+}
+
+#mid .container {
+  text-align: center;
+}
+
+.kalın-hr {
+  border-style: solid;
+  border-color: blueviolet;
+  border-left: none;
+  border-top: none;
+  border-right: none;
+  border-width: 7px;
+  margin-top: 7em;
+}
+
+#video .container {
+  text-align: center;
+}
+#pht .container {
+  text-align: center;
+}
+
+
+#video {
+  margin-top: 20%;
+}
+  
+video {
+  width: 80%;
+}
+
+
+#icon {
+  position: relative;
+  bottom: 0%;
+  transition: 0.4s;
+}
+
+#icon:hover {
+  bottom: 35%;
+}
+
+
+#borderimage {
+  border: 40px solid transparent;
+  padding: 15px;
+  border-image: url("../organize/frame.png") 20% round;
+}
+
+.ince-hr {
+  border-style: solid;
+  border-color: aqua;
+  border-left: none;
+  border-top: none;
+  border-right: none;
+  border-width: 3px;
+  width: 40%;
+  margin: 0 auto;
+
+}
+
+.video-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  /* Arkaplan rengi */
+  z-index: 9999;
+}
+.close-btn{
+  display:block;
+  z-index: 9999;
+  
+}
+#concept{
+  text-align: center;
+}
+#concept .col{
+  margin-top: 10%;
+
+
+  
+}
+#concept img{
+  width: 70%;
+}
+#concept h5{
+  text-align: left;
+  position: relative;
+  left: 15%;
+  margin-top: 7%;
+  font-family: monospace;
+}
+#concept p{
+  text-align: left;
+  position: relative;
+  left: 15%;
+  margin-top: 3%;
+  font-family: Arial, Helvetica, sans-serif;
+  opacity: 0.4;
+}
+#concept a{
+  color:inherit; /* Ya da istediğiniz bir renk belirleyebilirsiniz */
+  text-decoration: none;
+}
+#concept a:hover{
+  color:blueviolet; /* Ya da istediğiniz bir renk belirleyebilirsiniz */
+}
+#conceptDetails img{
+  width: 75%;
+}
+#conceptDetails .row{
+  margin-top: 10%;
+}
+
+.photo-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  z-index: 9999;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.photo-overlay img {
+  max-width: 90%;
+  max-height: 90%;
+  border-radius: 5px;
+}
+.video-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  z-index: 9999;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.video-overlay video {
+  max-width: 90%;
+  max-height: 90%;
+  border-radius: 5px;
+}
+.close-btn {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  color: white;
+  font-size: 24px;
+  cursor: pointer;
+}
+.nav-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  color: white;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.nav-btn.left {
+  left: 20px;
+}
+
+.nav-btn.right {
+  right: 20px;
+}
+#pht img{
+  width: 90%;
+}
+.slider-container {
+  position: relative;
+}
+
+.next, .prev {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding: 10px;
+  z-index: 2;
+}
+
+.next {
+  right: 10%;
+}
+
+.prev {
+  left: 10%;
+}
+
+.photo {
+  width: 100%;
+}
+#pht{
+  position: relative;
+  top: 10em;
+  background-color:#FCF2F3;
+}
