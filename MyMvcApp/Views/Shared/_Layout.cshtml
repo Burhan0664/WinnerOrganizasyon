@@ -11,7 +11,22 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
         integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <title>HomePage</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
+
+    <!-- Owl Carousel JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+
+    <title>Winner Organizasyon - Düğün ve Nişan Organizasyon Ankara</title>
+    <link rel="icon" type="image/x-icon" href="~/organize/image.jpg">
+    <meta name="description"
+        content="Ankara nişan organizasyonu, hastane odası süsleme ve doğum günü organizasyonunda kusursuz hizmetin adresi.Winner Organizasyon, düğün, kına gecesi ve baby shower gibi özel etkinlikler için profesyonel organizasyon hizmetleri sunmaktadır.Class Organizasyon Ankara Organizasyon ve Kiralama Hizmetleri. Düğün, Nişan, Kına Gecesi, Sünnet, Mezuniyet Gecesi organizasyonları. Sandalye ve masa kiralama.">
+    <meta name="keywords"
+        content="Hastane odası süslemesi, Doğum odası süslemesi, Nişan organizasyonu, söz organizasyonu, Ankara organizasyon, baby shower partisi, gender parti organizasyonu, Ankara açılış davet organizasyonu, mezuniyet partisi,">
+    <meta name="author" content="Winner Organizasyon,Ankara Organizasyon">
+
 </head>
 
 <body style="overflow-y: auto;">
@@ -40,6 +55,11 @@
                     </a>
                 </li>
                 <li class="nav-item awayer">
+                    <a class="nav-link text-white" asp-action="Index" asp-controller="Galery">
+                        <p id="text-nav">Galeri</p>
+                    </a>
+                </li>
+                <li class="nav-item awayer">
                     <a class="nav-link text-white" asp-action="Index" asp-controller="Communucation">
                         <p id="text-nav">İletişim</p>
                     </a>
@@ -54,8 +74,7 @@
 
 
 
-    <div
-        style="margin-bottom: 0%; margin-top: 20%; height: 7em;background-color: wheat;position: relative; bottom: 0px;">
+    <div style="margin-bottom: 0%;margin-top:20%; height: 7em;background-color: wheat;position: relative; bottom: 0px;">
 
         <div class="d-flex flex-row mx-5 my-lg-3">
             <div id="design" class="my-4">
@@ -73,8 +92,21 @@
                         class="fa-brands fa-whatsapp fa-lg" id="icon"></i></a></div>
         </div>
     </div>
+    <div class="cornerItem">
+        <div class="container">
+            <div class="row">
+                <div class="col-0">
+                    <div><a href="https://www.instagram.com/winner.organizasyon/" target="_blank"><img
+                                src="~/organize/insta.png" alt="" style="width: 80%;"></a></div>
+                </div>
+                <div class="col-0">
+                    <div><a href="https://wa.me/05529445506" target="_blank"><img src="~/organize/wp.png" alt=""
+                                style="width: 75%;"></a></div>
+                </div>
+            </div>
 
-    <script src="~/js/site.js"></script>
+        </div>
+        <script src="~/js/site.js"></script>
 </body>
 
 </html>

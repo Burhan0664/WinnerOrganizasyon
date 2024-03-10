@@ -1,0 +1,7 @@
+C:\Users\burha\OneDrive\Masaüstü\coder\WinnerFinalProject\MyMvcApp\bin\Debug\net6.0\publish\MyMvcApp.exe
+C:\Users\burha\OneDrive\Masaüstü\coder\WinnerFinalProject\MyMvcApp\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\burha\OneDrive\Masaüstü\coder\WinnerFinalProject\MyMvcApp\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\burha\OneDrive\Masaüstü\coder\WinnerFinalProject\MyMvcApp\bin\Debug\net6.0\publish\MyMvcApp.dll
+C:\Users\burha\OneDrive\Masaüstü\coder\WinnerFinalProject\MyMvcApp\bin\Debug\net6.0\publish\MyMvcApp.deps.json
+C:\Users\burha\OneDrive\Masaüstü\coder\WinnerFinalProject\MyMvcApp\bin\Debug\net6.0\publish\MyMvcApp.runtimeconfig.json
+C:\Users\burha\OneDrive\Masaüstü\coder\WinnerFinalProject\MyMvcApp\bin\Debug\net6.0\publish\MyMvcApp.pdb
