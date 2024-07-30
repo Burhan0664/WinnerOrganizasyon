@@ -1,0 +1,7 @@
+/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/bin/Release/net6.0/publish/MyMvcApp
+/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/bin/Release/net6.0/publish/appsettings.Development.json
+/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/bin/Release/net6.0/publish/appsettings.json
+/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/bin/Release/net6.0/publish/MyMvcApp.dll
+/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/bin/Release/net6.0/publish/MyMvcApp.deps.json
+/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/bin/Release/net6.0/publish/MyMvcApp.runtimeconfig.json
+/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/bin/Release/net6.0/publish/MyMvcApp.pdb

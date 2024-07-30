@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KhQJhTfaD/0QW+rgWM18DCB+ndMJFIluC9syepY7UzM=",
+  "Hash": "qKgZlGL6HhIUk46TZ0b11d0MA1yTTixkEe+MPevFGto=",
   "Source": "MyMvcApp",
   "BasePath": "_content/MyMvcApp",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "MyMvcApp\\wwwroot",
+      "Name": "MyMvcApp/wwwroot",
       "Source": "MyMvcApp",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\obj\\Release\\net6.0\\scopedcss\\bundle\\MyMvcApp.styles.css",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/obj/Release/net6.0/scopedcss/bundle/MyMvcApp.styles.css",
       "SourceId": "MyMvcApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\obj\\Release\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/obj/Release/net6.0/scopedcss/bundle/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "MyMvcApp.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\obj\\Release\\net6.0\\scopedcss\\bundle\\MyMvcApp.styles.css"
+      "OriginalItemSpec": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/obj/Release/net6.0/scopedcss/bundle/MyMvcApp.styles.css"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\MyMvcApp.bundle.scp.css",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/obj/Release/net6.0/scopedcss/projectbundle/MyMvcApp.bundle.scp.css",
       "SourceId": "MyMvcApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/obj/Release/net6.0/scopedcss/projectbundle/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "MyMvcApp.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\MyMvcApp.bundle.scp.css"
+      "OriginalItemSpec": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/obj/Release/net6.0/scopedcss/projectbundle/MyMvcApp.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\css\\site.css",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/css/site.css",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -65,13 +65,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\site.css"
+      "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\favicon.ico",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/favicon.ico",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -82,13 +82,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.ico"
+      "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\js\\site.js",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/js/site.js",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -99,13 +99,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\site.js"
+      "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -116,13 +116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -133,13 +133,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -150,13 +150,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -167,13 +167,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -184,13 +184,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -201,13 +201,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -218,13 +218,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -235,13 +235,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -252,13 +252,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -269,13 +269,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -286,13 +286,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -303,13 +303,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -320,13 +320,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -354,13 +354,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -371,13 +371,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -388,13 +388,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -405,13 +405,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -422,13 +422,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -439,13 +439,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -456,13 +456,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -473,13 +473,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -490,13 +490,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -507,13 +507,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -524,13 +524,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -541,13 +541,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -558,13 +558,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -575,13 +575,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -592,13 +592,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -609,13 +609,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -626,13 +626,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -643,13 +643,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -660,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -677,13 +677,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -694,13 +694,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -711,13 +711,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -728,13 +728,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -745,13 +745,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -762,13 +762,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -779,13 +779,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -796,13 +796,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -813,13 +813,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -830,13 +830,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -847,13 +847,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/bootstrap/LICENSE",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -864,13 +864,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -881,13 +881,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -898,13 +898,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -915,13 +915,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -932,13 +932,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -949,13 +949,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -966,13 +966,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -983,13 +983,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/jquery-validation/LICENSE.md",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1000,13 +1000,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/jquery/dist/jquery.js",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1017,13 +1017,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/jquery/dist/jquery.min.js",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1034,13 +1034,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/jquery/dist/jquery.min.map",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1051,13 +1051,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/lib/jquery/LICENSE.txt",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1068,13 +1068,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+      "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\organize\\20240220_215536.jpg",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/organize/20240220_215536.jpg",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "organize/20240220_215536.jpg",
       "AssetKind": "All",
@@ -1085,13 +1085,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\organize\\20240220_215536.jpg"
+      "OriginalItemSpec": "wwwroot/organize/20240220_215536.jpg"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\organize\\20240223_194931.jpg",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/organize/20240223_194931.jpg",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "organize/20240223_194931.jpg",
       "AssetKind": "All",
@@ -1102,13 +1102,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\organize\\20240223_194931.jpg"
+      "OriginalItemSpec": "wwwroot/organize/20240223_194931.jpg"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\organize\\back.jpeg",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/organize/back.jpeg",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "organize/back.jpeg",
       "AssetKind": "All",
@@ -1119,13 +1119,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\organize\\back.jpeg"
+      "OriginalItemSpec": "wwwroot/organize/back.jpeg"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\organize\\back1.jpg",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/organize/back1.jpg",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "organize/back1.jpg",
       "AssetKind": "All",
@@ -1136,13 +1136,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\organize\\back1.jpg"
+      "OriginalItemSpec": "wwwroot/organize/back1.jpg"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\organize\\birthday.jpeg",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/organize/birthday.jpeg",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "organize/birthday.jpeg",
       "AssetKind": "All",
@@ -1153,13 +1153,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\organize\\birthday.jpeg"
+      "OriginalItemSpec": "wwwroot/organize/birthday.jpeg"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\organize\\frame.png",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/organize/frame.png",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "organize/frame.png",
       "AssetKind": "All",
@@ -1170,13 +1170,30 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\organize\\frame.png"
+      "OriginalItemSpec": "wwwroot/organize/frame.png"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\organize\\insta.png",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/organize/image.jpg",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
+      "BasePath": "_content/MyMvcApp",
+      "RelativePath": "organize/image.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/organize/image.jpg"
+    },
+    {
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/organize/insta.png",
+      "SourceId": "MyMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "organize/insta.png",
       "AssetKind": "All",
@@ -1187,13 +1204,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\organize\\insta.png"
+      "OriginalItemSpec": "wwwroot/organize/insta.png"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\organize\\resim1.jpeg",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/organize/resim1.jpeg",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "organize/resim1.jpeg",
       "AssetKind": "All",
@@ -1204,13 +1221,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\organize\\resim1.jpeg"
+      "OriginalItemSpec": "wwwroot/organize/resim1.jpeg"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\organize\\resim10.jpg",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/organize/resim10.jpg",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "organize/resim10.jpg",
       "AssetKind": "All",
@@ -1221,13 +1238,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\organize\\resim10.jpg"
+      "OriginalItemSpec": "wwwroot/organize/resim10.jpg"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\organize\\resim11.jpg",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/organize/resim11.jpg",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "organize/resim11.jpg",
       "AssetKind": "All",
@@ -1238,13 +1255,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\organize\\resim11.jpg"
+      "OriginalItemSpec": "wwwroot/organize/resim11.jpg"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\organize\\resim12.jpg",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/organize/resim12.jpg",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "organize/resim12.jpg",
       "AssetKind": "All",
@@ -1255,13 +1272,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\organize\\resim12.jpg"
+      "OriginalItemSpec": "wwwroot/organize/resim12.jpg"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\organize\\resim13.jpg",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/organize/resim13.jpg",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "organize/resim13.jpg",
       "AssetKind": "All",
@@ -1272,13 +1289,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\organize\\resim13.jpg"
+      "OriginalItemSpec": "wwwroot/organize/resim13.jpg"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\organize\\resim14.jpg",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/organize/resim14.jpg",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "organize/resim14.jpg",
       "AssetKind": "All",
@@ -1289,13 +1306,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\organize\\resim14.jpg"
+      "OriginalItemSpec": "wwwroot/organize/resim14.jpg"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\organize\\resim15.jpg",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/organize/resim15.jpg",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "organize/resim15.jpg",
       "AssetKind": "All",
@@ -1306,13 +1323,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\organize\\resim15.jpg"
+      "OriginalItemSpec": "wwwroot/organize/resim15.jpg"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\organize\\resim16.jpg",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/organize/resim16.jpg",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "organize/resim16.jpg",
       "AssetKind": "All",
@@ -1323,13 +1340,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\organize\\resim16.jpg"
+      "OriginalItemSpec": "wwwroot/organize/resim16.jpg"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\organize\\resim2.jpeg",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/organize/resim2.jpeg",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "organize/resim2.jpeg",
       "AssetKind": "All",
@@ -1340,13 +1357,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\organize\\resim2.jpeg"
+      "OriginalItemSpec": "wwwroot/organize/resim2.jpeg"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\organize\\resim3.jpeg",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/organize/resim3.jpeg",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "organize/resim3.jpeg",
       "AssetKind": "All",
@@ -1357,13 +1374,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\organize\\resim3.jpeg"
+      "OriginalItemSpec": "wwwroot/organize/resim3.jpeg"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\organize\\resim4.jpeg",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/organize/resim4.jpeg",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "organize/resim4.jpeg",
       "AssetKind": "All",
@@ -1374,13 +1391,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\organize\\resim4.jpeg"
+      "OriginalItemSpec": "wwwroot/organize/resim4.jpeg"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\organize\\resim5.jpg",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/organize/resim5.jpg",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "organize/resim5.jpg",
       "AssetKind": "All",
@@ -1391,13 +1408,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\organize\\resim5.jpg"
+      "OriginalItemSpec": "wwwroot/organize/resim5.jpg"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\organize\\resim6.jpg",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/organize/resim6.jpg",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "organize/resim6.jpg",
       "AssetKind": "All",
@@ -1408,13 +1425,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\organize\\resim6.jpg"
+      "OriginalItemSpec": "wwwroot/organize/resim6.jpg"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\organize\\resim7.jpg",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/organize/resim7.jpg",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "organize/resim7.jpg",
       "AssetKind": "All",
@@ -1425,13 +1442,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\organize\\resim7.jpg"
+      "OriginalItemSpec": "wwwroot/organize/resim7.jpg"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\organize\\resim8.jpg",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/organize/resim8.jpg",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "organize/resim8.jpg",
       "AssetKind": "All",
@@ -1442,13 +1459,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\organize\\resim8.jpg"
+      "OriginalItemSpec": "wwwroot/organize/resim8.jpg"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\organize\\resim9.jpg",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/organize/resim9.jpg",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "organize/resim9.jpg",
       "AssetKind": "All",
@@ -1459,13 +1476,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\organize\\resim9.jpg"
+      "OriginalItemSpec": "wwwroot/organize/resim9.jpg"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\organize\\video1.mp4",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/organize/video1.mp4",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "organize/video1.mp4",
       "AssetKind": "All",
@@ -1476,13 +1493,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\organize\\video1.mp4"
+      "OriginalItemSpec": "wwwroot/organize/video1.mp4"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\organize\\video2.mp4",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/organize/video2.mp4",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "organize/video2.mp4",
       "AssetKind": "All",
@@ -1493,30 +1510,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\organize\\video2.mp4"
+      "OriginalItemSpec": "wwwroot/organize/video2.mp4"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\organize\\winner copy.png",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/organize/winner.png",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
-      "BasePath": "_content/MyMvcApp",
-      "RelativePath": "organize/winner copy.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\organize\\winner copy.png"
-    },
-    {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\organize\\winner.png",
-      "SourceId": "MyMvcApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "organize/winner.png",
       "AssetKind": "All",
@@ -1527,13 +1527,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\organize\\winner.png"
+      "OriginalItemSpec": "wwwroot/organize/winner.png"
     },
     {
-      "Identity": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\organize\\wp.png",
+      "Identity": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/organize/wp.png",
       "SourceId": "MyMvcApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\wwwroot\\",
+      "ContentRoot": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/wwwroot/",
       "BasePath": "_content/MyMvcApp",
       "RelativePath": "organize/wp.png",
       "AssetKind": "All",
@@ -1544,7 +1544,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\organize\\wp.png"
+      "OriginalItemSpec": "wwwroot/organize/wp.png"
     }
   ]
 }
