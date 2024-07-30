@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "07ZaL1ekoP9iU7LQ/eKY5EnpFotixKqI7Kme92opjm+LvKEUG+stush3xAjMZqh6ZWkVZHE358RtMpo3FysuCw==",
+  "dgSpecHash": "4ShHoS/+K38ZuvzGC7JC0o7MurOidfRFBQvt/bD/zteKcaMHtXhkQQ4CIsHFTy7ErX+r+ldnKB52NY/CLFuHyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\WinnerFinalProject\\MyMvcApp\\MyMvcApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/kali/Desktop/Projects/WinnerOrganizasyon/MyMvcApp/MyMvcApp.csproj",
+  "expectedPackageFiles": [
+    "/home/kali/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/kali/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/kali/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
   "logs": []
 }
