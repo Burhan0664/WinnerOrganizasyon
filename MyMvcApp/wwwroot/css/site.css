@@ -318,3 +318,212 @@ video {
   right: 0;
 }
 
+@media (max-width: 768px) {
+  
+  /* Genel Ayarlar */
+  body {
+    overflow-x: hidden;
+  }
+
+  /* img-wrapper */
+  #img-wrapper {
+    flex-direction: column;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    gap: 2vmin;
+  }
+
+  #img-wrapper>.image {
+    width: 80vw; /* Ekran genişliğine göre ayarlandı */
+    height: auto;
+  }
+
+  /* Awayer */
+  .awayer {
+    margin-top: 0.1px;
+  }
+
+  /* Input */
+  input {
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+
+  /* Communucation */
+  #communucation {
+    top: 20px;
+    padding: 10px;
+  }
+
+  /* Form */
+  form {
+    margin: 5% 10px;
+  }
+
+  .form-group {
+    margin: 1em 2em;
+  }
+
+  /* Text-Nav */
+  #text-nav {
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  /* Footer */
+  #footer {
+    background-size: cover;
+    padding: 20px;
+  }
+
+  #footer .container {
+    text-align: center;
+    padding: 20px 10px;
+  }
+
+  #mrgn {
+    margin-top: 10%;
+  }
+
+  /* Navbar */
+  nav {
+    border-width: 2px;
+  }
+
+  /* Mid Container */
+  #mid .container {
+    text-align: center;
+  }
+
+  /* Kalın-hr */
+  .kalın-hr {
+    margin-top: 2em;
+    border-width: 5px;
+  }
+
+  /* Video */
+  #video {
+    margin-top: 10%;
+  }
+
+  video {
+    width: 90%;
+  }
+
+  /* Icon */
+  #icon {
+    bottom: 0%;
+  }
+
+  /* Border Image */
+  #borderimage {
+    border-width: 20px;
+    padding: 10px;
+  }
+
+  /* İnce-hr */
+  .ince-hr {
+    width: 80%;
+    border-width: 2px;
+  }
+
+  /* Concept Section */
+  #concept {
+    text-align: center;
+  }
+
+  #concept .col {
+    margin-top: 5%;
+  }
+
+  #concept img {
+    width: 90%;
+  }
+
+  #concept h5 {
+    text-align: center;
+    left: 0;
+    margin-top: 5%;
+  }
+
+  #concept p {
+    text-align: center;
+    left: 0;
+    margin-top: 2%;
+  }
+
+  #conceptDetails img {
+    width: 100%;
+  }
+
+  #conceptDetails .row {
+    margin-top: 5%;
+  }
+
+  /* Slider Container */
+  .slider-container {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+  }
+
+  /* Next & Prev Buttons */
+  .next, .prev {
+    top: auto;
+    bottom: 20px;
+    padding: 5px;
+    font-size: 20px;
+  }
+
+  .next {
+    right: 5%;
+  }
+
+  .prev {
+    left: 5%;
+  }
+
+  /* Photo Section */
+  #pht {
+    top: 5em;
+    background-color: #FCF2F3;
+    padding: 10px;
+  }
+
+  #pht img {
+    width: 100%;
+  }
+
+  /* Photo Overlay */
+  .photo-overlay img, .video-overlay video {
+    max-width: 95%;
+    max-height: 85%;
+  }
+
+  /* Close Button */
+  .close-btn {
+    top: 10px;
+    right: 10px;
+  }
+
+  /* Nav Buttons */
+  .nav-btn {
+    top: auto;
+    bottom: 10px;
+    font-size: 20px;
+  }
+  
+  .nav-btn.left {
+    left: 10px;
+  }
+
+  .nav-btn.right {
+    right: 10px;
+  }
+
+  /* Corner Item */
+  .cornerItem {
+    bottom: 0;
+    right: 0;
+  }
+}
