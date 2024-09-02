@@ -31,10 +31,6 @@
 
 <body style="overflow-y: auto;">
     <nav class="navbar navbar-expand-lg navbar-light bg-dark" style="height: 7em;">
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01"
-            aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
         <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
             <a class="navbar-brand text-white" href="/"><img src="~/organize/winner.png" alt="" style="width: 30%;"
                     class="ml-5"></a>
@@ -78,14 +74,14 @@
 
         <div class="d-flex flex-row mx-5 my-lg-3">
             <div id="design" class="my-4">
-                <p style="color:blue;">Design By <i style="color: blueviolet;"> <a
+                <p id="lastp" style="color:blue;">Design By <i style="color: blueviolet;"> <a
                             href="https://www.instagram.com/burhancvdroglu/" target="_blank"
                             style="outline: none;color: blueviolet;"><b>Burhan Çavdaroğlu</b></a></i></p>
             </div>
             @{
                 string text = "@2023 Winner Organizasyon Tüm Hakları Saklıdır";
             }
-            <div class="ml-auto my-4 text-dark "><b>@text</b></div>
+            <div class="ml-auto my-4 text-dark " ><b id="text_">@text</b</div>
             <div class="ml-5 my-4 "><a href="https://www.instagram.com/winner.organizasyon/" target="_blank"><i
                         class="fa-brands fa-instagram fa-lg" id="icon"></i></a></div>
             <div class="ml-2 my-4 "><a href="https://wa.me/05529445506" target="_blank"><i
@@ -97,11 +93,11 @@
             <div class="row">
                 <div class="col-0">
                     <div><a href="https://www.instagram.com/winner.organizasyon/" target="_blank"><img
-                                src="~/organize/insta.png" alt="" style="width: 80%;"></a></div>
+                                src="~/organize/insta.png" alt="" style="width:80%;"></a></div>
                 </div>
                 <div class="col-0">
                     <div><a href="https://wa.me/05529445506" target="_blank"><img src="~/organize/wp.png" alt=""
-                                style="width: 75%;"></a></div>
+                                style="width:75%;"></a></div>
                 </div>
             </div>
 
