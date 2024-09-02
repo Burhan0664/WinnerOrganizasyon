@@ -324,7 +324,11 @@ video {
 @media (max-width: 768px) {
   
   body {
-    overflow-x: hidden;
+    height: 100vh;
+    width: 100vw;
+    background-color: rgb(25, 25, 25);
+    margin: 0rem;
+    overflow-x: hidden !important; /* Sabitlenmiş: Taşmayı engeller */
   }
   .col-6 {
     display:contents ;
@@ -332,42 +336,18 @@ video {
     border-image: none !important;
   }
   /* Navbar */
-  nav {
-    border-width: 2px;
-  }
-  nav button {
-    display: none;
-  }
-  nav div ul {
-    display: flex !important;  /* Ensures the nav items are displayed as flex items */
-    flex-direction: row !important; /* Forces the nav items to be in a row */
-    justify-content: center; /* Centers the nav items */
-    align-items: center; /* Vertically aligns the nav items */
-    padding: 0;
-    margin: 0;
-    list-style: none;
-  }
+
   #pand{
     width: 100% !important;
   }
-  nav div ul li {
-    display: inline-block; /* Ensures each nav item is treated as inline */
-    margin: 0 10px; /* Adds some spacing between the nav items */
-  }
 
-  nav div ul li a {
-    display: block !important;
-    padding: 10px;
-    text-decoration: none;
-    color: inherit; 
-  }
-
- 
   #img-wrapper {
-    flex-direction: row;
+    position: absolute;
     left: 50%;
     transform: translate(-50%, -50%);
     gap: 2vmin;
+    width: 100%;
+    overflow-x: scroll;
   }
 
   #img-wrapper>.image {

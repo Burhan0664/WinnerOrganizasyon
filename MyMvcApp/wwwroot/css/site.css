@@ -431,10 +431,12 @@ video {
   #video {
     position: relative;
     margin-top: 50%;
+    z-index: -1;
   }
 
   video {
     width: 90%;
+    z-index: -1;
   }
 
   /* Icon */
@@ -517,6 +519,7 @@ video {
     background-color: #FCF2F3;
     padding: 10px;
     padding-bottom: 15em;
+    z-index: 0;
   }
 
   #pht img {
