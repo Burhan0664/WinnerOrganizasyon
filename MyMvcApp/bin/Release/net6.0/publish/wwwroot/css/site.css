@@ -115,7 +115,7 @@ nav {
   margin-top: 7em;
 }
 
-#video .container {
+#video1 .container {
   text-align: center;
 }
 #pht .container {
@@ -123,7 +123,7 @@ nav {
 }
 
 
-#video {
+#video1 {
   margin-top: 20%;
 }
   
@@ -321,6 +321,7 @@ video {
   display:flex;
   font-size: large;
  }
+
 @media (max-width: 768px) {
   
   body {
@@ -341,6 +342,14 @@ video {
     width: 100% !important;
   }
 
+
+  nav{
+    position: absolute;
+    top: 0px;
+    flex-direction:column;
+    width: 100%;
+    overflow-x: hidden;
+  }
   #img-wrapper {
     position: absolute;
     left: 50%;
@@ -363,17 +372,19 @@ video {
     width: 100%;
     margin-bottom: 1rem;
   }
-
+  .show{
+    display: none;
+  }
   #communucation {
-    top: 100px !important;
+    top: 3em !important;
     padding: 10px !important;
-    width: 100% !important;
+    width:100% !important;
     
   }
   
   #form-row{
-    width:350px !important;
-    height:400px !important;
+    width:330px !important;
+    height:440px !important;
   }
   #message{
     width: 100% !important;
@@ -388,6 +399,7 @@ video {
     margin: 1em 2em;
     
   }
+ 
   #lastp{
     font-size: small !important;
   }
@@ -397,8 +409,8 @@ video {
   }
   /* Text-Nav */
   #text-nav {
-    width: 100%;
-    margin: 0 auto;
+    color: black;
+    display: block;
   }
 
   /* Footer */
@@ -428,13 +440,16 @@ video {
   }
 
   /* Video */
-  #video {
+  #video1 {
     position: relative;
-    margin-top: 50%;
+    top: 3em;
+    padding: 10px;
   }
 
   video {
-    width: 90%;
+    width: 100%;
+    margin-top: 2em;
+    z-index: -1;
   }
 
   /* Icon */
@@ -446,6 +461,7 @@ video {
   #borderimage {
     border-width: 20px;
     padding: 10px;
+    width: 95%;
   }
 
   /* İnce-hr */
@@ -457,16 +473,27 @@ video {
   /* Concept Section */
   #concept {
     text-align: center;
+    width: 100%;
+    overflow-y: hidden;
   }
-
-  #concept .col {
-    margin-top: 5%;
+  #conceptDetails {
+    text-align: center;
+    width: 100%;
+    overflow-y: hidden;
   }
 
   #concept img {
     width: 90%;
   }
 
+  .custom-toggler {
+    position: absolute; 
+    top: 2em;
+    right: 3em; 
+    z-index: 1000; 
+    background-color:aqua !important;
+    
+}
   #concept h5 {
     text-align: center;
     left: 0;
@@ -480,7 +507,7 @@ video {
   }
 
   #conceptDetails img {
-    width: 100%;
+    width: 90%;
   }
 
   #conceptDetails .row {
@@ -513,10 +540,10 @@ video {
   /* Photo Section */
   #pht {
     position: relative;
-    margin-bottom: 5em;
     background-color: #FCF2F3;
     padding: 10px;
     padding-bottom: 15em;
+    z-index: 0;
   }
 
   #pht img {

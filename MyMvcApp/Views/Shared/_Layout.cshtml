@@ -15,7 +15,10 @@
     <link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
 
-    <!-- Owl Carousel JavaScript -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
 
@@ -30,10 +33,14 @@
 </head>
 
 <body style="overflow-y: auto;">
+
     <nav class="navbar navbar-expand-lg navbar-light bg-dark" style="height: 7em;">
+
+        <a class="navbar-brand text-white" href="/"><img src="~/organize/winner.png" alt="" style="width: 30%;"
+                class="ml-5"></a>
+
+       
         <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
-            <a class="navbar-brand text-white" href="/"><img src="~/organize/winner.png" alt="" style="width: 30%;"
-                    class="ml-5"></a>
             <ul class="navbar-nav ml-auto mt-5 mt-lg-0 mx-5">
                 <li class="nav-item active awayer">
                     <a class="nav-link text-white" asp-action="Index" asp-controller="Home">
@@ -61,9 +68,46 @@
                     </a>
                 </li>
             </ul>
-
         </div>
+
+
     </nav>
+<div >
+ <button class="navbar-toggler custom-toggler" type="button" data-toggle="collapse" aria-controls="navbarTogglerDemo02"
+            data-target="#navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+ </button>
+    <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+            <ul class="navbar-nav ml-auto mt-5 mt-lg-0 mx-5">
+                <li class="nav-item active awayer">
+                    <a class="nav-link text-white" asp-action="Index" asp-controller="Home">
+                        <p id="text-nav">Ana Sayfa</p> <span class="sr-only">(current)</span>
+                    </a>
+                </li>
+                <li class="nav-item awayer">
+                    <a class="nav-link text-white" asp-action="Index" asp-controller="About">
+                        <p id="text-nav">Hakkımızda</p>
+                    </a>
+                </li>
+                <li class="nav-item awayer">
+                    <a class="nav-link text-white" asp-action="Index" asp-controller="Concepts">
+                        <p id="text-nav">Konseptlerimiz</p>
+                    </a>
+                </li>
+                <li class="nav-item awayer">
+                    <a class="nav-link text-white" asp-action="Index" asp-controller="Galery">
+                        <p id="text-nav">Galeri</p>
+                    </a>
+                </li>
+                <li class="nav-item awayer">
+                    <a class="nav-link text-white" asp-action="Index" asp-controller="Communucation">
+                        <p id="text-nav">İletişim</p>
+                    </a>
+                </li>
+            </ul>
+        </div>
+
+</div>
 
     <div>@RenderBody()</div>
 
@@ -81,28 +125,28 @@
             @{
                 string text = "@2023 Winner Organizasyon Tüm Hakları Saklıdır";
             }
-            <div class="ml-auto my-4 text-dark " ><b id="text_">@text</b</div>
-            <div class="ml-5 my-4 "><a href="https://www.instagram.com/winner.organizasyon/" target="_blank"><i
-                        class="fa-brands fa-instagram fa-lg" id="icon"></i></a></div>
-            <div class="ml-2 my-4 "><a href="https://wa.me/05529445506" target="_blank"><i
-                        class="fa-brands fa-whatsapp fa-lg" id="icon"></i></a></div>
-        </div>
-    </div>
-    <div class="cornerItem">
-        <div class="container">
-            <div class="row">
-                <div class="col-0">
-                    <div><a href="https://www.instagram.com/winner.organizasyon/" target="_blank"><img
-                                src="~/organize/insta.png" alt="" style="width:80%;"></a></div>
-                </div>
-                <div class="col-0">
-                    <div><a href="https://wa.me/05529445506" target="_blank"><img src="~/organize/wp.png" alt=""
-                                style="width:75%;"></a></div>
-                </div>
+            <div class="ml-auto my-4 text-dark "><b id="text_">@text</b< /div>
+                    <div class="ml-5 my-4 "><a href="https://www.instagram.com/winner.organizasyon/" target="_blank"><i
+                                class="fa-brands fa-instagram fa-lg" id="icon"></i></a></div>
+                    <div class="ml-2 my-4 "><a href="https://wa.me/05529445506" target="_blank"><i
+                                class="fa-brands fa-whatsapp fa-lg" id="icon"></i></a></div>
             </div>
-
         </div>
-        <script src="~/js/site.js"></script>
+        <div class="cornerItem">
+            <div class="container">
+                <div class="row">
+                    <div class="col-0">
+                        <div><a href="https://www.instagram.com/winner.organizasyon/" target="_blank"><img
+                                    src="~/organize/insta.png" alt="" style="width:80%;"></a></div>
+                    </div>
+                    <div class="col-0">
+                        <div><a href="https://wa.me/05529445506" target="_blank"><img src="~/organize/wp.png" alt=""
+                                    style="width:75%;"></a></div>
+                    </div>
+                </div>
+
+            </div>
+            <script src="~/js/site.js"></script>
 </body>
 
 </html>
