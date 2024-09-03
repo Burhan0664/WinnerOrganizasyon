@@ -444,12 +444,13 @@ video {
     position: relative;
     top: 3em;
     padding: 10px;
+    z-index: 0;
   }
 
   video {
     width: 100%;
     margin-top: 2em;
-    z-index: -1;
+    z-index: 0;
   }
 
   /* Icon */
@@ -582,5 +583,6 @@ video {
     position: fixed;;
     bottom: 0;
     right: 0;
+    z-index: 1000;
   }
 }
