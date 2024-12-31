@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **User Management:**  
   - Secure user authentication and role-based authorization.  
@@ -27,7 +27,7 @@
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Backend:** ASP.NET MVC Framework  
 - **Frontend:**  
@@ -40,5 +40,4 @@
 
 ---
 
-## 📂 Project Structure
 
