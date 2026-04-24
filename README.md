@@ -7,18 +7,6 @@ Kurumsal organizasyon firmalarının operasyonlarını kolaylaştırmak, müşte
 
 ---
 
-## 📌 İçindekiler
-
-Bu repo aşağıdaki ana bölümlerden oluşur:
-
-- **Controllers** – Kullanıcı isteklerini yöneten controller yapıları  
-- **Models** – Veritabanı tabloları ve veri modelleri  
-- **Views** – Frontend arayüz sayfaları  
-- **wwwroot** – CSS, JavaScript, görseller ve statik dosyalar  
-- **Data** – Veritabanı bağlantıları ve context yapısı  
-- **Services** – İş mantığı ve yardımcı servisler  
-
----
 
 ## 🚀 Başlangıç
 
