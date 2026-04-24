@@ -1,43 +1,129 @@
-# MyMvcApp - MVC Web Application
+````markdown
+# 🎉 Organizasyon Yönetim Sistemi
 
-**MyMvcApp** is a modular and scalable **Model-View-Controller (MVC)** web application designed to streamline user interactions and data management. Built with best practices and modern web development tools, this project demonstrates clean architecture and efficient handling of requests.
+Bu repository, organizasyon şirketlerine özel olarak geliştirdiğim **.NET tabanlı web uygulamasıdır**. Proje; etkinlik, müşteri ve rezervasyon süreçlerini dijital ortama taşımak amacıyla geliştirilmiştir. Özellikle **frontend tarafı güçlü**, modern ve kullanıcı dostu arayüz deneyimi sunacak şekilde tasarlanmıştır.
 
----
-
-##  Features
-
-- **User Management:**  
-  - Secure user authentication and role-based authorization.  
-  - Efficient session management and account recovery.  
-
-- **Dynamic Content Rendering:**  
-  - Separation of concerns between Models, Views, and Controllers.  
-  - Responsive and user-friendly interface.  
-
-- **Database Integration:**  
-  - CRUD operations integrated with relational databases.  
-  - Use of migrations for schema management.  
-
-- **Search and Filtering:**  
-  - Advanced search input for retrieving specific data.  
-  - Pagination and sorting options for large datasets.  
-
-- **Performance Optimization:**  
-  - Caching and minimized load times for better user experience.  
+Kurumsal organizasyon firmalarının operasyonlarını kolaylaştırmak, müşteri taleplerini yönetmek ve etkinlik süreçlerini takip etmek amacıyla hazırlanmıştır.
 
 ---
 
-##  Technologies Used
+## 📌 İçindekiler
 
-- **Backend:** ASP.NET MVC Framework  
-- **Frontend:**  
-  - HTML5, CSS3, Bootstrap for responsive design  
-  - JavaScript for dynamic client-side interactions  
-- **Database:** Entity Framework Core with SQLite  
-- **Other Tools:**  
-  - LINQ for efficient querying  
-  - Dependency Injection for modularity  
+Bu repo aşağıdaki ana bölümlerden oluşur:
+
+- **Controllers** – Kullanıcı isteklerini yöneten controller yapıları  
+- **Models** – Veritabanı tabloları ve veri modelleri  
+- **Views** – Frontend arayüz sayfaları  
+- **wwwroot** – CSS, JavaScript, görseller ve statik dosyalar  
+- **Data** – Veritabanı bağlantıları ve context yapısı  
+- **Services** – İş mantığı ve yardımcı servisler  
 
 ---
 
+## 🚀 Başlangıç
 
+Projeyi yerel bilgisayarına klonlamak için:
+
+```bash
+git clone https://github.com/kullaniciadi/projeadi.git
+````
+
+Ardından proje klasörüne gir:
+
+```bash
+cd projeadi
+```
+
+Projeyi çalıştırmak için:
+
+```bash
+dotnet run
+```
+
+---
+
+## 📁 Klasör Yapısı
+
+```bash
+ProjectName/
+├── Controllers/
+├── Models/
+├── Views/
+├── wwwroot/
+├── Data/
+├── Services/
+├── appsettings.json
+└── Program.cs
+```
+
+### Açıklamalar:
+
+* **Controllers/** – Sayfa yönlendirmeleri ve request işlemleri
+* **Models/** – Entity sınıfları ve veri modelleri
+* **Views/** – Razor View sayfaları
+* **wwwroot/** – CSS, JS, Bootstrap, görseller
+* **Data/** – Entity Framework Core veritabanı işlemleri
+* **Services/** – Yardımcı servisler ve iş katmanı
+
+---
+
+## 🛠️ Kullanılan Teknolojiler
+
+### Backend
+
+* ASP.NET Core MVC
+* C#
+* Entity Framework Core
+* SQLite / SQL Server
+
+### Frontend
+
+* HTML5
+* CSS3
+* Bootstrap
+* JavaScript
+* Responsive Design
+
+### Diğer
+
+* LINQ
+* Dependency Injection
+* Razor Pages Structure
+
+---
+
+## ✨ Proje Özellikleri
+
+* Organizasyon rezervasyon yönetimi
+* Müşteri kayıt ve iletişim sistemi
+* Etkinlik planlama ekranları
+* Yönetici paneli
+* Dinamik ve modern arayüz tasarımı
+* Mobil uyumlu responsive yapı
+* CRUD işlemleri
+* Veritabanı entegrasyonu
+
+---
+
+## 🧩 Hedef
+
+Bu repository:
+
+* Gerçek dünyaya uygun kurumsal proje geliştirmek
+* .NET MVC mimarisini uygulamak
+* Frontend geliştirme becerilerimi güçlendirmek
+* Ticari projelere uygun sistem tasarlamak
+* Portföy için profesyonel proje üretmek
+
+amacıyla oluşturulmuştur.
+
+---
+
+## 👨‍💻 Geliştirici
+
+**Burhan Çavdaroğlu**
+📍 Ankara, Türkiye
+🔗 LinkedIn: [https://www.linkedin.com/in/burhancavdaroglu/](https://www.linkedin.com/in/burhancavdaroglu/)
+
+```
+```
