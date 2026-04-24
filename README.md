@@ -69,18 +69,12 @@ ProjectName/
 * JavaScript
 * Responsive Design
 
-### Diğer
-
-* LINQ
-* Dependency Injection
-* Razor Pages Structure
 
 ---
 
 ## ✨ Proje Özellikleri
 
 * Organizasyon rezervasyon yönetimi
-* Müşteri kayıt ve iletişim sistemi
 * Etkinlik planlama ekranları
 * Dinamik ve modern arayüz tasarımı
 * Mobil uyumlu responsive yapı
