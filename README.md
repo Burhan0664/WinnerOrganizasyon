@@ -102,7 +102,8 @@ amacıyla oluşturulmuştur.
 
 ## 👨‍💻 Geliştirici
 
-**Burhan Çavdaroğlu**
-📍 Ankara, Türkiye
-🔗 LinkedIn: [https://www.linkedin.com/in/burhancavdaroglu/](https://www.linkedin.com/in/burhancavdaroglu/)
+**Burhan Çavdaroğlu**  
+📍 Ankara, Türkiye  
+🔗 LinkedIn: https://www.linkedin.com/in/burhancavdaroglu/
+
 
