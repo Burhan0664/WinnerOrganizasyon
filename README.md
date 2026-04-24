@@ -1,4 +1,4 @@
-````markdown
+````
 # 🎉 Organizasyon Yönetim Sistemi
 
 Bu repository, organizasyon şirketlerine özel olarak geliştirdiğim **.NET tabanlı web uygulamasıdır**. Proje; etkinlik, müşteri ve rezervasyon süreçlerini dijital ortama taşımak amacıyla geliştirilmiştir. Özellikle **frontend tarafı güçlü**, modern ve kullanıcı dostu arayüz deneyimi sunacak şekilde tasarlanmıştır.
