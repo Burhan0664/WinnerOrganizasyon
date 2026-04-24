@@ -83,11 +83,8 @@ ProjectName/
 * Organizasyon rezervasyon yönetimi
 * Müşteri kayıt ve iletişim sistemi
 * Etkinlik planlama ekranları
-* Yönetici paneli
 * Dinamik ve modern arayüz tasarımı
 * Mobil uyumlu responsive yapı
-* CRUD işlemleri
-* Veritabanı entegrasyonu
 
 ---
 
@@ -96,7 +93,6 @@ ProjectName/
 Bu repository:
 
 * Gerçek dünyaya uygun kurumsal proje geliştirmek
-* .NET MVC mimarisini uygulamak
 * Frontend geliştirme becerilerimi güçlendirmek
 * Ticari projelere uygun sistem tasarlamak
 * Portföy için profesyonel proje üretmek
