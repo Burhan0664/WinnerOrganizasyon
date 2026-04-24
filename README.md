@@ -6,8 +6,6 @@ Bu repository, organizasyon şirketlerine özel olarak geliştirdiğim **.NET ta
 Kurumsal organizasyon firmalarının operasyonlarını kolaylaştırmak, müşteri taleplerini yönetmek ve etkinlik süreçlerini takip etmek amacıyla hazırlanmıştır.
 
 ---
-
-
 ## 🚀 Başlangıç
 
 Projeyi yerel bilgisayarına klonlamak için:
