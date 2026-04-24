@@ -98,7 +98,7 @@ Bu repository:
 
 amacıyla oluşturulmuştur.
 
----
+
 
 ## 👨‍💻 Geliştirici
 
