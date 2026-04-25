@@ -41,16 +41,7 @@ ProjectName/
 └── Program.cs
 ```
 
-### Açıklamalar:
 
-* **Controllers/** – Sayfa yönlendirmeleri ve request işlemleri
-* **Models/** – Entity sınıfları ve veri modelleri
-* **Views/** – Razor View sayfaları
-* **wwwroot/** – CSS, JS, Bootstrap, görseller
-* **Data/** – Entity Framework Core veritabanı işlemleri
-* **Services/** – Yardımcı servisler ve iş katmanı
-
----
 
 ## 🛠️ Kullanılan Teknolojiler
 
