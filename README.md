@@ -1,4 +1,3 @@
-````markdown
 # 🎉 Organizasyon Yönetim Sistemi
 
 Bu repository, organizasyon şirketlerine özel olarak geliştirdiğim **.NET tabanlı web uygulamasıdır**. Proje; etkinlik, müşteri ve rezervasyon süreçlerini dijital ortama taşımak amacıyla geliştirilmiştir. Özellikle **frontend tarafı güçlü**, modern ve kullanıcı dostu arayüz deneyimi sunacak şekilde tasarlanmıştır.
@@ -26,7 +25,7 @@ Projeyi çalıştırmak için:
 dotnet run
 ```
 
----
+
 
 ## 📁 Klasör Yapısı
 
@@ -70,18 +69,12 @@ ProjectName/
 * JavaScript
 * Responsive Design
 
-### Diğer
-
-* LINQ
-* Dependency Injection
-* Razor Pages Structure
 
 ---
 
 ## ✨ Proje Özellikleri
 
 * Organizasyon rezervasyon yönetimi
-* Müşteri kayıt ve iletişim sistemi
 * Etkinlik planlama ekranları
 * Dinamik ve modern arayüz tasarımı
 * Mobil uyumlu responsive yapı
@@ -103,7 +96,8 @@ amacıyla oluşturulmuştur.
 
 ## 👨‍💻 Geliştirici
 
-**Burhan Çavdaroğlu**
-📍 Ankara, Türkiye
-🔗 LinkedIn: [https://www.linkedin.com/in/burhancavdaroglu/](https://www.linkedin.com/in/burhancavdaroglu/)
+**Burhan Çavdaroğlu**  
+📍 Ankara, Türkiye  
+🔗 LinkedIn: https://www.linkedin.com/in/burhancavdaroglu/
+
 
