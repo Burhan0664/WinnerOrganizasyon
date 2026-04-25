@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\burha\\OneDrive\\Projects\\Winnerorganizasyon\\WinnerOrganizasyon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF8719A-1B47-4442-94A9-4E53AFCE78DE}|MyMvcApp\\MyMvcApp.csproj|c:\\users\\burha\\onedrive\\projects\\winnerorganizasyon\\winnerorganizasyon\\mymvcapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CF8719A-1B47-4442-94A9-4E53AFCE78DE}|MyMvcApp\\MyMvcApp.csproj|solutionrelative:mymvcapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF8719A-1B47-4442-94A9-4E53AFCE78DE}|MyMvcApp\\MyMvcApp.csproj|c:\\users\\burha\\onedrive\\projects\\winnerorganizasyon\\winnerorganizasyon\\mymvcapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CF8719A-1B47-4442-94A9-4E53AFCE78DE}|MyMvcApp\\MyMvcApp.csproj|solutionrelative:mymvcapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF8719A-1B47-4442-94A9-4E53AFCE78DE}|MyMvcApp\\MyMvcApp.csproj|c:\\users\\burha\\onedrive\\projects\\winnerorganizasyon\\winnerorganizasyon\\mymvcapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CF8719A-1B47-4442-94A9-4E53AFCE78DE}|MyMvcApp\\MyMvcApp.csproj|solutionrelative:mymvcapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF8719A-1B47-4442-94A9-4E53AFCE78DE}|MyMvcApp\\MyMvcApp.csproj|c:\\users\\burha\\onedrive\\projects\\winnerorganizasyon\\winnerorganizasyon\\mymvcapp\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CF8719A-1B47-4442-94A9-4E53AFCE78DE}|MyMvcApp\\MyMvcApp.csproj|solutionrelative:mymvcapp\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF8719A-1B47-4442-94A9-4E53AFCE78DE}|MyMvcApp\\MyMvcApp.csproj|c:\\users\\burha\\onedrive\\projects\\winnerorganizasyon\\winnerorganizasyon\\mymvcapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1CF8719A-1B47-4442-94A9-4E53AFCE78DE}|MyMvcApp\\MyMvcApp.csproj|solutionrelative:mymvcapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF8719A-1B47-4442-94A9-4E53AFCE78DE}|MyMvcApp\\MyMvcApp.csproj|c:\\users\\burha\\onedrive\\projects\\winnerorganizasyon\\winnerorganizasyon\\mymvcapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CF8719A-1B47-4442-94A9-4E53AFCE78DE}|MyMvcApp\\MyMvcApp.csproj|solutionrelative:mymvcapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF8719A-1B47-4442-94A9-4E53AFCE78DE}|MyMvcApp\\MyMvcApp.csproj|c:\\users\\burha\\onedrive\\projects\\winnerorganizasyon\\winnerorganizasyon\\mymvcapp\\views\\concepts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CF8719A-1B47-4442-94A9-4E53AFCE78DE}|MyMvcApp\\MyMvcApp.csproj|solutionrelative:mymvcapp\\views\\concepts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF8719A-1B47-4442-94A9-4E53AFCE78DE}|MyMvcApp\\MyMvcApp.csproj|c:\\users\\burha\\onedrive\\projects\\winnerorganizasyon\\winnerorganizasyon\\mymvcapp\\views\\concepts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CF8719A-1B47-4442-94A9-4E53AFCE78DE}|MyMvcApp\\MyMvcApp.csproj|solutionrelative:mymvcapp\\views\\concepts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF8719A-1B47-4442-94A9-4E53AFCE78DE}|MyMvcApp\\MyMvcApp.csproj|c:\\users\\burha\\onedrive\\projects\\winnerorganizasyon\\winnerorganizasyon\\mymvcapp\\views\\communucation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CF8719A-1B47-4442-94A9-4E53AFCE78DE}|MyMvcApp\\MyMvcApp.csproj|solutionrelative:mymvcapp\\views\\communucation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF8719A-1B47-4442-94A9-4E53AFCE78DE}|MyMvcApp\\MyMvcApp.csproj|c:\\users\\burha\\onedrive\\projects\\winnerorganizasyon\\winnerorganizasyon\\mymvcapp\\views\\galery\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CF8719A-1B47-4442-94A9-4E53AFCE78DE}|MyMvcApp\\MyMvcApp.csproj|solutionrelative:mymvcapp\\views\\galery\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\burha\\OneDrive\\Projects\\Winnerorganizasyon\\WinnerOrganizasyon\\MyMvcApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MyMvcApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\burha\\OneDrive\\Projects\\Winnerorganizasyon\\WinnerOrganizasyon\\MyMvcApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MyMvcApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-25T10:29:46.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\burha\\OneDrive\\Projects\\Winnerorganizasyon\\WinnerOrganizasyon\\MyMvcApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyMvcApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\burha\\OneDrive\\Projects\\Winnerorganizasyon\\WinnerOrganizasyon\\MyMvcApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MyMvcApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-24T18:25:36.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\burha\\OneDrive\\Projects\\Winnerorganizasyon\\WinnerOrganizasyon\\MyMvcApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "MyMvcApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\burha\\OneDrive\\Projects\\Winnerorganizasyon\\WinnerOrganizasyon\\MyMvcApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "MyMvcApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-24T18:27:18.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\burha\\OneDrive\\Projects\\Winnerorganizasyon\\WinnerOrganizasyon\\MyMvcApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyMvcApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\burha\\OneDrive\\Projects\\Winnerorganizasyon\\WinnerOrganizasyon\\MyMvcApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyMvcApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-24T18:27:08.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\burha\\OneDrive\\Projects\\Winnerorganizasyon\\WinnerOrganizasyon\\MyMvcApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MyMvcApp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\burha\\OneDrive\\Projects\\Winnerorganizasyon\\WinnerOrganizasyon\\MyMvcApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MyMvcApp\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAI8BAAAAAAAAAAAAAKsBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-24T18:27:26.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\burha\\OneDrive\\Projects\\Winnerorganizasyon\\WinnerOrganizasyon\\MyMvcApp\\Views\\Concepts\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyMvcApp\\Views\\Concepts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\burha\\OneDrive\\Projects\\Winnerorganizasyon\\WinnerOrganizasyon\\MyMvcApp\\Views\\Concepts\\Index.cshtml",
+              "RelativeToolTip": "MyMvcApp\\Views\\Concepts\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-24T18:25:34.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\burha\\OneDrive\\Projects\\Winnerorganizasyon\\WinnerOrganizasyon\\MyMvcApp\\Views\\Concepts\\Details.cshtml",
+              "RelativeDocumentMoniker": "MyMvcApp\\Views\\Concepts\\Details.cshtml",
+              "ToolTip": "C:\\Users\\burha\\OneDrive\\Projects\\Winnerorganizasyon\\WinnerOrganizasyon\\MyMvcApp\\Views\\Concepts\\Details.cshtml",
+              "RelativeToolTip": "MyMvcApp\\Views\\Concepts\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-24T18:25:33.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\burha\\OneDrive\\Projects\\Winnerorganizasyon\\WinnerOrganizasyon\\MyMvcApp\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyMvcApp\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\burha\\OneDrive\\Projects\\Winnerorganizasyon\\WinnerOrganizasyon\\MyMvcApp\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "MyMvcApp\\Views\\About\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-24T18:25:29.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\burha\\OneDrive\\Projects\\Winnerorganizasyon\\WinnerOrganizasyon\\MyMvcApp\\Views\\Communucation\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyMvcApp\\Views\\Communucation\\Index.cshtml",
+              "ToolTip": "C:\\Users\\burha\\OneDrive\\Projects\\Winnerorganizasyon\\WinnerOrganizasyon\\MyMvcApp\\Views\\Communucation\\Index.cshtml",
+              "RelativeToolTip": "MyMvcApp\\Views\\Communucation\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-24T18:25:26.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\burha\\OneDrive\\Projects\\Winnerorganizasyon\\WinnerOrganizasyon\\MyMvcApp\\Views\\Galery\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyMvcApp\\Views\\Galery\\Index.cshtml",
+              "ToolTip": "C:\\Users\\burha\\OneDrive\\Projects\\Winnerorganizasyon\\WinnerOrganizasyon\\MyMvcApp\\Views\\Galery\\Index.cshtml",
+              "RelativeToolTip": "MyMvcApp\\Views\\Galery\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-24T18:25:18.28Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
